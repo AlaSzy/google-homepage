@@ -1,0 +1,104 @@
+
+
+.logo{
+    height: 160px;
+    margin-top: 89px;
+    text-align: center;
+  
+}
+.google_image{
+    width:auto;
+    height:92px;
+    display: block;
+    position: absolute;
+   top:170px;
+   right: 800px;
+    
+       
+}
+.nav1{
+    text-align: right;
+
+    }
+    .nav_gora{
+        color:black;
+    }
+.center{
+    text-align:center;
+}
+input{
+    width: 582px;
+    height: 45px;
+    border-radius: 25px;
+    border: 1px solid #dadce0;
+    margin-bottom: 25px;
+}
+button{
+    background-color: #f8f9fa;
+    border:none;
+    width: 127px;
+    height: 37px;
+    margin-right: 10px;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    margin-bottom:15px;
+}
+p{
+    text-align:center;
+    font-size: 14px;
+    font-family: arial, sans-serif;
+}
+span{
+    color:blue;
+}
+footer{
+    display:block;
+    height: 81px;
+    width:1900px;
+    font-size:10 px;
+    position:absolute;
+    bottom:0px;
+   
+    text-decoration: none;
+    background-color: #f8f9fa;
+}
+.div_polska{
+    display:block;
+    border-top: 1px solid rgb(218,220,224);
+    border-bottom: 1px solid rgb(218,220,224);
+    font-family: arial, sans-serif;
+    line-height: 40px;
+    padding: 5px;
+    font-size:15px;
+    
+}
+.linki{
+    font-family: arial, sans-serif;
+    line-height: 40px;
+    text-decoration: none;
+    
+   
+   
+}
+.span1{
+    position:absolute;
+    left:0px;
+    margin-right: 5px;
+    font-size: 15px;
+    
+}
+.span2{
+    position:absolute;
+    right:0px;
+    font-size: 15px;
+    
+}
+a{
+    text-decoration:none;
+    color:gray;
+    padding: 0 10px;
+    
+}
+.span0{
+   color:gray;
+}
